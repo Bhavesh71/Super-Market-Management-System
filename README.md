@@ -1,5 +1,5 @@
 # Billing Invoice GUI
-This is supermarket management system developed by Bhavesh(myself). The aim of this project is to develop a Supermarket Management system that is available for the grocery shops. In India, there are many Supermarkets which are accessible to this system. They just need a person to operate this system. Our aim is to offer user-friendly and easy to use system. This will be opened to all, feel free to add some more features.
+This is supermarket management system developed by Bhavesh and Sethu. The aim of this project is to develop a Supermarket Management system that is available for the grocery shops. In India, there are many Supermarkets which are accessible to this system. They just need a person to operate this system. Our aim is to offer user-friendly and easy to use system. This will be opened to all, feel free to add some more features.
   
 # Features :-
 - Generating invoice.
@@ -51,5 +51,5 @@ That's it. You are done. Thanks for accessing my program.
 ![image](https://user-images.githubusercontent.com/77270386/140328411-97fae76a-808d-4b13-8085-7cffe322cde3.png)
 
 
-## SPECIAL THANKS TO JOHNEY FOR HELPING ME IN THIS PROJECT AND MANAGING DATABASES.
+## SPECIAL THANKS TO SETHU ANAND FOR HELPING ME IN THIS PROJECT AND MANAGING DATABASES.
 
